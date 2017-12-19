@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kaladujuvad</string>
+    <string name="on">muudab midagi</string>
+    <string name="off">muudab midagi</string>
+    <string name="switchOn">jälle muudab midagi</string>
+    <string name="switchOff">jälle muudab midagi</string>
+    <string name="texty">midagi midagi</string>
+    <string name="midagi">midagi uut</string>
+    <string name="mdea">järjekordne mitte midagi</string>
+</resources>
